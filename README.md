@@ -1,7 +1,7 @@
 # Distance-Calculator
 It helps us create a calculator where it answers given coordinates and answer and find how long or what is the distance is.
-import math
 
+import math
 # Ask the user to enter the coordinates of the first point
 x1 = float(input("Enter x1: "))
 y1 = float(input("Enter y1: "))
