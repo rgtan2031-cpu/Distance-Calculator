@@ -2,7 +2,7 @@
 It helps us create a calculator where it answers given coordinates and answer and find how long or what is the distance is.
 
 # Ask the user to enter the coordinates of the first point
-import math
+
 x1 = float(input("Enter x1: "))
 y1 = float(input("Enter y1: "))
 
